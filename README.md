@@ -97,7 +97,7 @@ El diseño cuenta con un estilo moderno con efectos de elevación (hover) y una 
 Sistema de gestión para un bazar de ropa.
 
 ### Previews
-<img width="1890" height="864" alt="image" src="https://github.com/user-attachments/assets/52973b93-4d97-4bac-9279-31514caaeb16" />
+- <img width="1890" height="864" alt="image" src="https://github.com/user-attachments/assets/52973b93-4d97-4bac-9279-31514caaeb16" />
 
 - <img width="1917" height="876" alt="image" src="https://github.com/user-attachments/assets/ba7b2786-0cd9-4831-9a0d-d1fc3c86e3c3" />
 
