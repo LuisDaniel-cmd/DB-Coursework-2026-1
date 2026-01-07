@@ -71,12 +71,12 @@ El archivo index.php actúa como el núcleo del sistema, conectando con los sigu
 ## 📰 Diagramas del proyecto
 
 ### 🔷 Diagrama EER
-<img width="1280" height="430" alt="Diapositiva2" src="https://github.com/user-attachments/assets/3bdf3714-e2c1-4dae-86de-0450de5a5ec9" />
+- <img width="1280" height="430" alt="Diapositiva2" src="https://github.com/user-attachments/assets/3bdf3714-e2c1-4dae-86de-0450de5a5ec9" />
 
  ---
 
  ### 🔷 Diagrama relacional
- <img width="1280" height="720" alt="Diapositiva3" src="https://github.com/user-attachments/assets/bb21bef3-7b9c-4751-a6e1-84d5679816d2" />
+ - <img width="1280" height="720" alt="Diapositiva3" src="https://github.com/user-attachments/assets/bb21bef3-7b9c-4751-a6e1-84d5679816d2" />
 
  ---
 
