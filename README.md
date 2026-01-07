@@ -83,8 +83,6 @@ El archivo index.php actúa como el núcleo del sistema, conectando con los sigu
 
 
 
-## 💻 Instalación y Uso
-
 ## 🎨 Vista Previa de la Interfaz
 El diseño cuenta con un estilo moderno con efectos de elevación (hover) y una paleta de colores profesional:
 <img width="1280" height="720" alt="Diapositiva1" src="https://github.com/user-attachments/assets/25c494e5-ccbb-481b-8465-034dcd8c2995" />
