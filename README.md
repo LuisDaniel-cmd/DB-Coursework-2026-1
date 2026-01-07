@@ -80,15 +80,12 @@ El archivo index.php actúa como el núcleo del sistema, conectando con los sigu
 
  ---
 
-
-
-
 ## 🎨 Vista Previa de la Interfaz
 El diseño cuenta con un estilo moderno con efectos de elevación (hover) y una paleta de colores profesional:
-<img width="1280" height="720" alt="Diapositiva1" src="https://github.com/user-attachments/assets/25c494e5-ccbb-481b-8465-034dcd8c2995" />
-<img width="1280" height="720" alt="Diapositiva2" src="https://github.com/user-attachments/assets/42ce88f3-3a78-424a-bf24-e297de265c39" />
-<img width="1280" height="720" alt="Diapositiva3" src="https://github.com/user-attachments/assets/b9d30503-6760-4823-b9c4-43190f1bffb2" />
-<img width="1280" height="720" alt="Diapositiva4" src="https://github.com/user-attachments/assets/a6ce7788-13d0-408d-a0d5-3ae2f1b32971" />
+- <img width="1280" height="720" alt="Diapositiva1" src="https://github.com/user-attachments/assets/25c494e5-ccbb-481b-8465-034dcd8c2995" />
+- <img width="1280" height="720" alt="Diapositiva2" src="https://github.com/user-attachments/assets/42ce88f3-3a78-424a-bf24-e297de265c39" />
+- <img width="1280" height="720" alt="Diapositiva3" src="https://github.com/user-attachments/assets/b9d30503-6760-4823-b9c4-43190f1bffb2" />
+- <img width="1280" height="720" alt="Diapositiva4" src="https://github.com/user-attachments/assets/a6ce7788-13d0-408d-a0d5-3ae2f1b32971" />
 
 🟢 Verde: Acciones positivas (Clientes).
 
