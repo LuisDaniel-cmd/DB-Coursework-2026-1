@@ -92,3 +92,20 @@ El diseño cuenta con un estilo moderno con efectos de elevación (hover) y una 
 🔵 Azul: Acciones informativas (Productos/Sistema).
 
 🔴 Rojo: Acciones críticas o de salida (Ventas).
+
+## Proyecto 3: fabrica de jueguetes 
+Sistema de gestión para un bazar de ropa.
+
+### Previews
+<img width="1890" height="864" alt="image" src="https://github.com/user-attachments/assets/52973b93-4d97-4bac-9279-31514caaeb16" />
+
+- <img width="1917" height="876" alt="image" src="https://github.com/user-attachments/assets/ba7b2786-0cd9-4831-9a0d-d1fc3c86e3c3" />
+
+- <img width="1895" height="867" alt="image" src="https://github.com/user-attachments/assets/daf218ba-7090-4eb0-b7cd-db92a39ec191" />
+
+- <img width="1892" height="875" alt="image" src="https://github.com/user-attachments/assets/d6c23f17-4008-495f-9855-2111dc3d3927" />
+
+### Enlaces
+- [Repositorio en GitHub](https://github.com/24l3x/Proyecto-Base-de-datos)
+
+- [Página Web](https://juguetesdars.page.gd/)
