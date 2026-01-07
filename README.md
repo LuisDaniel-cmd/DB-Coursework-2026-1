@@ -444,3 +444,24 @@ DOLY/
     └─ logs/
       └─ data.log
 ```
+
+## Proyecto 4: 
+
+### 🛠️ Tecnologías
+* **Backend:** JavaScript con Prisma (ORM).
+* **Base de Datos:** SupaBase (PostgreSQL).
+* **Frontend:** Render con HTML con JavaScript.
+
+### 🖼️ Previews
+- <img width="1920" height="998" alt="cap1" src="https://github.com/user-attachments/assets/21ba206c-453e-4d6e-aa84-e4c5e69d8836" />
+
+- <img width="1920" height="946" alt="cap2" src="https://github.com/user-attachments/assets/2fdbd6a4-4a2b-459e-a2f4-1c17eb5ff7c2" />
+
+- <img width="1920" height="949" alt="cap3" src="https://github.com/user-attachments/assets/2cab073c-523e-4c55-9b6a-4984e0cf2dd1" />
+
+- <img width="1920" height="1000" alt="cap4" src="https://github.com/user-attachments/assets/9bd10ce4-8bd6-4bc7-a1a8-d12d8aae531f" />
+
+### 🔗 Enlaces
+**Código en Github:** [Repositorio en GitHub](https://github.com/GabrielEC9/proyecto_BD_practica31)
+
+**Pagina Web** [Bazar Ropa Web](https://proyecto-bd-practica31.onrender.com/login.html)
