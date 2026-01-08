@@ -192,6 +192,7 @@ Plataforma web para gestión de asistencia vial y administración de servicios r
 ### 🔗 Enlaces
 * **Código Fuente:** [Repositorio en GitHub](https://github.com/jr-devel/doly)
 * **Demo en Vivo:** [DOLY Logistic](https://doly-a04d1513c532.herokuapp.com/auth/login)
+* **Demo en Vivo GitHub Pages:** [DOLY Logistic](https://jr-devel.github.io/doly_front_escom/)
 * **Contacto:** dolylogistic@gmail.com
 
 ---
